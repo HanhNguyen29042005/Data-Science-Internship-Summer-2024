@@ -1,1 +1,2 @@
-# Data-Science-Internship-Summer-2024
+# Data Science Internship Summer-2024
+During this internship, we analyze how the students at Xavier University experience the CORE curriculum. We mainly looked into the distribution of students taking classes in summer semester, students' transfer credit from high school, how students in different majors organize their schedule to finsih their CORE curriculum, and how students struggle to fulfill the language requirements (taking them more than 3 semester to finish).  
