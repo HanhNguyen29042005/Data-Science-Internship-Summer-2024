@@ -1,2 +1,11 @@
 # Data Science Internship Summer-2024
-During this internship, we analyzed how the students at Xavier University experience the CORE curriculum. We mainly looked into the distribution of students taking classes in the summer semester, students' transfer credit from high school, how students in different majors organize their schedules to finish their CORE curriculum, and how students struggle to fulfill the language requirements (taking them more than three semesters to finish). We mostly worked on R-studio to clean data and generate the visualizations for illustration. 
+# Overview 
+This project analyzes how undergraduate students at Xavier University progress through the CORE curriculum. Our goal was to understand patterns in course-taking behavior, identify bottlenecks, and generate insights that can support academic planning, advising, and student success initiatives.
+The analysis explores:
+Summer semester course enrollment patterns
+Transfer credits from high school (AP, dual credit, etc.)
+How CORE completion differs across majors
+Challenges fulfilling language requirements
+Retention and persistence trends
+Time-to-completion behaviors
+Visualization of key metrics and distributions
